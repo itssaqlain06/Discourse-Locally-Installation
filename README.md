@@ -1,4 +1,4 @@
-# 🚀 Discourse Local Installation Guide (Optimized with Docker & Ngrok)
+# 🚀 Discourse Locally Installation Guide (Optimized with Docker & Ngrok)
 
 ## 📌 Introduction
 Discourse is a powerful open-source discussion platform that is ideal for forums and communities. This guide will walk you through **installing Discourse locally** using **Docker** and setting up **Ngrok** for external access.
